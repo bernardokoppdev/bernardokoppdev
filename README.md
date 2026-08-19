@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá! Me chamo Bernardo 👋
 
-<!--
-**bernardokoppdev/bernardokoppdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de ADS | Front-End Developer | UI/UX Designer
 
-Here are some ideas to get you started:
+## 🌐 Conecte-se comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/bernardo-kopp-11b69842b/?isSelfProfile=true)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Perfil-black?logo=dev.to)](https://dev.to/bernardokoppdev)
+
+## Sobre mim
+💻 Desenvolvedor em formação
+🎨 Interesse em UI/UX e Front-End
+📚 Estudante de Análise e Desenvolvimento de Sistemas
+
+## Meus Artigos Recentes
