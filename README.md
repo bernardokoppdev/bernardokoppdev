@@ -205,37 +205,7 @@ bernardo@kopp-os:~$ █
 
 ---
 
-## `06 // GITHUB ANALYTICS`
-
-<div align="center">
-
-### `> SYSTEM TELEMETRY`
-
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardokoppdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=8A2BE2&ring_color=00F7FF" alt="Bernardo's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardokoppdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Top Languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `> CURRENT STREAK`
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=bernardokoppdev&hide_border=true&background=0D1117&stroke=21262D&ring=00F7FF&fire=8A2BE2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
----
-
-## `07 // ACTIVITY MONITOR`
+## `06 // ACTIVITY MONITOR`
 
 <div align="center">
 
@@ -255,7 +225,7 @@ bernardo@kopp-os:~$ █
 
 ---
 
-## `08 // ACHIEVEMENTS`
+## `07 // ACHIEVEMENTS`
 
 <div align="center">
 
@@ -271,7 +241,7 @@ bernardo@kopp-os:~$ █
 
 ---
 
-## `09 // CONTRIBUTION MATRIX`
+## `08 // CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -295,7 +265,7 @@ SYSTEM > Simulation initialized.
 
 ---
 
-## `10 // NETWORK`
+## `09 // NETWORK`
 
 <div align="center">
 
@@ -333,7 +303,7 @@ SYSTEM > Simulation initialized.
 
 ---
 
-## `11 // DEV.LOG`
+## `10 // DEV.LOG`
 
 <div align="center">
 
