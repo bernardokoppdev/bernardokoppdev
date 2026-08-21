@@ -1,5 +1,5 @@
 <!-- ===================================================== -->
-<!--                    KOPP.OS // README                   -->
+<!--                    BERNARDO KOPP // README                   -->
 <!-- ===================================================== -->
 
 <div align="center">
@@ -148,15 +148,15 @@ NEXT STACK   ████████████████████   UNDE
 
 <br><br>
 
-<a href="https://github.com/SEU_USUARIO/PROJETO_1">
+<a href="https://github.com/bernardokoppdev/PROJETO_1">
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_1&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF&icon_color=8A2BE2&bg_color=0D1117"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO/PROJETO_2">
+<a href="https://github.com/bernardokoppdev/PROJETO_2">
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_2&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF&icon_color=8A2BE2&bg_color=0D1117"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO/PROJETO_3">
+<a href="https://github.com/bernardokoppdev/PROJETO_3">
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_3&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF&icon_color=8A2BE2&bg_color=0D1117"/>
 </a>
 
@@ -166,7 +166,7 @@ NEXT STACK   ████████████████████   UNDE
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
+<a href="https://github.com/bernardokoppdev?tab=repositories">
 <img src="https://img.shields.io/badge/ACCESS-ALL_REPOSITORIES-00F7FF?style=for-the-badge&labelColor=090909"/>
 </a>
 
@@ -211,9 +211,9 @@ bernardo@kopp-os:~$ _
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=8A2BE2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardokoppdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=8A2BE2"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardokoppdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -223,7 +223,7 @@ bernardo@kopp-os:~$ _
 
 ### `CONTRIBUTION STREAK`
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=bernardokoppdev&theme=transparent&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
@@ -237,7 +237,7 @@ bernardo@kopp-os:~$ _
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bernardokoppdev&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -273,7 +273,7 @@ bernardo@kopp-os:~$ _
 
 <br>
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/bernardokoppdev/bernardokoppdev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
@@ -291,15 +291,15 @@ bernardo@kopp-os:~$ _
 
 <br>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/[SEU_LINKEDIN](https://www.linkedin.com/in/bernardo-kopp-11b69842b/)/">
 <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/bernardokoppdev">
 <img src="https://img.shields.io/badge/GitHub-FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="https://dev.to/SEU_DEVTO">
+<a href="https://dev.to/https://dev.to/bernardokoppdev">
 <img src="https://img.shields.io/badge/DEV.to-READ-0D1117?style=for-the-badge&logo=devdotto&logoColor=8A2BE2"/>
 </a>
 
