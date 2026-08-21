@@ -225,47 +225,7 @@ bernardo@kopp-os:~$ █
 
 ---
 
-## `07 // ACHIEVEMENTS`
-
-<div align="center">
-
-### `> TROPHY DATABASE`
-
-<br>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=bernardokoppdev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<br>
-
----
-
-## `08 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-```text
-SYSTEM > Scanning contribution matrix...
-SYSTEM > Lifeform detected.
-SYSTEM > Simulation initialized.
-```
-
-<br>
-
-<img src="https://raw.githubusercontent.com/bernardokoppdev/bernardokoppdev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Contribution Animation"/>
-
-<br>
-
-`[ CONTRIBUTION PROTOCOL ACTIVE ]`
-
-</div>
-
-<br>
-
----
-
-## `09 // NETWORK`
+## `07 // NETWORK`
 
 <div align="center">
 
@@ -303,7 +263,7 @@ SYSTEM > Simulation initialized.
 
 ---
 
-## `10 // DEV.LOG`
+## `08 // DEV.LOG`
 
 <div align="center">
 
